@@ -1,2 +1,2 @@
 # SimplePythonScripts
-This repository hold simple Python scripts - e.g. (Password Generator, YouTube videos downloader, etc.)
+This repository is intended to store simple Python scripts - e.g. (Password Generator, YouTube videos downloader, etc.)
